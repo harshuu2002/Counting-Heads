@@ -1,5 +1,5 @@
-# Counting-Heads
-1. Techniques Used:
+# Counting-Heads 
+# Techniques Used:
 
 Convolutional Neural Networks (CNNs): Utilized for feature extraction from images, trained on large datasets of annotated head images.
 <br>
@@ -8,7 +8,7 @@ Image Preprocessing: Techniques applied to enhance image quality and improve the
 Post-processing: Methods implemented to refine detection results and ensure accurate counting.
 <br>
 <br>
-2. Applications:
+# Applications:
 <br>
 Crowd Management: Monitoring crowd density and movement in public spaces.
 <br>
@@ -19,7 +19,8 @@ Retail Analytics: Analyzing foot traffic and customer behavior in stores.
 Audience Measurement: Measuring audience size and engagement in events or broadcasts.
 <br>
 <br>
-3. Challenges:
+
+# Challenges:
 
 Variability in Head Appearance: Handling different head sizes, orientations, and occlusions.
 <br>
@@ -28,7 +29,7 @@ Real-time Performance: Ensuring efficient processing for live video streams.
 Accuracy: Achieving high precision in head detection and counting under varying environmental conditions.
 <br>
 <br>
-4. Future Directions:
+# Future Directions:
 
 Integration with IoT: Linking head counting data with other IoT devices for comprehensive analytics.
 <br>
